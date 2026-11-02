@@ -1,0 +1,11 @@
+{
+  "style": "dark",
+  "handle": "thisdayinwwii",
+  "publish": {
+    "start_date": "2026-11-07",
+    "time": "17:00",
+    "github_repo": "bfrische/thisdayinwwii",
+    "branch": "main",
+    "api_version": "v26.0"
+  }
+}

@@ -1,0 +1,9 @@
+# Instagram token: stays on this Mac only
+.env
+.env.tmp
+
+cache/
+logs/
+__pycache__/
+.DS_Store
+preview_*.jpg
